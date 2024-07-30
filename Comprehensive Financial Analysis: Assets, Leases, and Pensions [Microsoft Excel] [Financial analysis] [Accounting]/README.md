@@ -24,4 +24,5 @@ Development involved creating detailed financial models within Excel, utilising 
 2. Formulas and Functions: Implementing Excel functions to calculate depreciation, costs, and gains.
 3. Report Generation: Creating templates for financial reports that summarise the key metrics and insights.
 4. Validation: Ensuring accuracy and consistency in data and calculations.
-![image](https://github.com/user-attachments/assets/d61a1378-c75f-424f-98ac-d462652cf911)
+
+<br /> ![image](https://github.com/user-attachments/assets/d61a1378-c75f-424f-98ac-d462652cf911)
