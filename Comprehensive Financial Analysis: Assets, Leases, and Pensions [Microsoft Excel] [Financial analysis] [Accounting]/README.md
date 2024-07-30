@@ -12,6 +12,11 @@ The dataset consists of multiple Excel sheets containing financial data on vario
 '19WU': Coded financial information. <br />
 '19 HW': Pension expenses and related financial elements. <br />
 
+## Skills and technologies
+Microsoft Excel: Primary tool for data entry, calculation, and reporting. <br />
+Financial modeling: Utilising Excel functions and formulas for financial analysis. <br />
+Accounting: Understanding principles of asset valuation, lease accounting, and pension expense calculation. <br />
+
 ## Development
 Development involved creating detailed financial models within Excel, utilising formulas and functions to automate calculations and generate comprehensive financial reports. The process included:
 
@@ -20,9 +25,3 @@ Development involved creating detailed financial models within Excel, utilising 
 3. Report Generation: Creating templates for financial reports that summarise the key metrics and insights.
 4. Validation: Ensuring accuracy and consistency in data and calculations.
 ![image](https://github.com/user-attachments/assets/d61a1378-c75f-424f-98ac-d462652cf911)
-
-
-## Skills and technologies
-Microsoft Excel: Primary tool for data entry, calculation, and reporting. <br />
-Financial modeling: Utilising Excel functions and formulas for financial analysis. <br />
-Accounting: Understanding principles of asset valuation, lease accounting, and pension expense calculation. <br />
