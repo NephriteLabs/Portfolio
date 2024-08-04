@@ -14,7 +14,7 @@ Normality of variables ("variables.spv"): Contains results of normality tests on
 ANOVA results ("Step 3-4_ANOVA.spv"): Contains results of ANOVA tests conducted on various groups.<br/>
 T-Test results ("Step 3-4_T-Test.spv"): Contains results of T-Tests comparing means between two groups.<br/>
 
-## Skills and technologies
+## Skills and Technologies
 
 - IBM SPSS: Used for performing statistical analysis and generating reports.
 - Statistical methods: Knowledge of normality tests, ANOVA, and T-Tests.
