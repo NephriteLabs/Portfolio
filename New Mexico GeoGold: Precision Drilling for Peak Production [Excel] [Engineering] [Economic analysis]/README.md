@@ -17,7 +17,7 @@ The project utilises various datasets, including geological maps (net thickness 
 ## Skills and technologies:
 
 - Geological interpretation and mapping
-- Engineering calculations (volumetric calculations, material balance, production forecasting etc)
+- Engineering (volumetric calculations, material balance, production forecasting etc)
 - Economic analysis (NPV calculations, sensitivity analysis)
 
 
