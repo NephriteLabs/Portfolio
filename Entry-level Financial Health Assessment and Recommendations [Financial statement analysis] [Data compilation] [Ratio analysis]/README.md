@@ -11,7 +11,7 @@ The project involved conducting a basic financial analysis of a company from 200
 The project utilises financial data for from 2006 to 2012, including current assets and total assets, current liabilities and total liabilities, total revenue and total expenses, and also net income.<br/>
 <br/>![image](https://github.com/user-attachments/assets/1d034a50-913e-406c-94f2-b8e9bb0bbb31)
 
-## Skills and technologies:
+## Skills and Technologies:
 
 - Financial statement analysis
 - Ratio analysis and interpretation
