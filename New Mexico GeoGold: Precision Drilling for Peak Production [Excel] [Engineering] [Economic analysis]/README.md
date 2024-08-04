@@ -14,7 +14,7 @@ The project required a multidisciplinary approach, integrating various aspects o
 ## Dataset:
 The project utilises various datasets, including geological maps (net thickness map), fluid properties data (pressure, recovery %, free gas, GOR), production data (initial rates, decline rates), economic parameters (working interest, royalty burden, costs), well logging data, and fracturing and completion data.
 
-## Skills and technologies:
+## Skills and Technologies:
 
 - Geological interpretation and mapping
 - Engineering (volumetric calculations, material balance, production forecasting etc)
