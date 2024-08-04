@@ -12,7 +12,7 @@ The dataset consists of multiple Excel sheets containing financial data on vario
 '19WU': Coded financial information. <br />
 '19 HW': Pension expenses and related financial elements. <br />
 
-## Skills and technologies
+## Skills and Technologies
 Microsoft Excel: Primary tool for data entry, calculation, and reporting. <br />
 Financial modeling: Utilising Excel functions and formulas for financial analysis. <br />
 Accounting: Understanding principles of asset valuation, lease accounting, and pension expense calculation. <br />
