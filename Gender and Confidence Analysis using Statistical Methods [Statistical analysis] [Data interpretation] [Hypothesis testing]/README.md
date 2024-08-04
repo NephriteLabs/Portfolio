@@ -1,7 +1,7 @@
 ## Concept
 The project aimed to analyse the relationship between gender and confidence levels in responses, utilising statistical methods to determine if these variables are independent or dependent.
 
-### The Project included:
+### The project included:
 - Conducting chi-squared tests for independence and goodness-of-fit
 - Analysing response distributions by gender
 - Interpreting the significance of the findings
