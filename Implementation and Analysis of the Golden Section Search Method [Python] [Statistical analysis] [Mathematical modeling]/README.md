@@ -4,7 +4,7 @@ This project focuses on implementing and analysing the Golden Section Search alg
 ## Dataset:
 The project doesn't use a traditional dataset but instead works with mathematical functions, particularly a high-degree polynomial: f(x) = (x-1)(x-2)(x-3)(x-4)(x-5), 1000 randomly generated search instances for testing and analysis and simulated data points for estimating the order of convergence.
 
-## Skills and technologies:
+## Skills and Technologies:
 - Python programming<br/>
 - Mathematical modeling and optimisation techniques<br/>
 - Algorithm implementation and analysis<br/>
