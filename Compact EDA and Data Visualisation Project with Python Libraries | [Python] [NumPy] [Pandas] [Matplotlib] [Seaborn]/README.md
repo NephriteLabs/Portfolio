@@ -1,4 +1,4 @@
-## Concept:
+## Concept
 The project aim was to try out various techniques for analysing and visualising a small dataset using popular Python libraries for data science.
 
 ### The project included:
@@ -9,10 +9,10 @@ The project aim was to try out various techniques for analysing and visualising 
 - Outlier detection
 - Calculation and presentation of summary statistics
 
-## Dataset:
+## Dataset
 The project uses a small, manually created dataset with 5 entries. Each entry contains Name, Age, Gender, City and Salary.
 
-## Skills and Technologies:
+## Skills and Technologies
 
 - Python programming
 - Data manipulation with Pandas
@@ -23,7 +23,7 @@ The project uses a small, manually created dataset with 5 entries. Each entry co
 - Text formatting with textwrap
 - Table creation with tabulate
 
-## Development:
+## Development
 The script progresses through several stages of analysis:
 
 1. Data Creation and Import:
