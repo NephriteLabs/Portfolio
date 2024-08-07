@@ -1,10 +1,10 @@
-## Concept:
+## Concept
 This project focuses on implementing and analysing the Golden Section Search algorithm, a technique used for finding the minimum or maximum of a unimodal function within a given interval. The project explores the algorithm's theoretical foundations, practical implementation, and performance analysis across multiple scenarios.
 
-## Dataset:
+## Dataset
 The project doesn't use a traditional dataset but instead works with mathematical functions, particularly a high-degree polynomial: f(x) = (x-1)(x-2)(x-3)(x-4)(x-5), 1000 randomly generated search instances for testing and analysis and simulated data points for estimating the order of convergence.
 
-## Skills and Technologies:
+## Skills and Technologies
 - Python programming<br/>
 - Mathematical modeling and optimisation techniques<br/>
 - Algorithm implementation and analysis<br/>
@@ -12,7 +12,7 @@ The project doesn't use a traditional dataset but instead works with mathematica
 - Statistical analysis (for calculating average convergence rates)<br/>
 - Numerical methods (for estimating order of convergence)<br/>
 
-## Development:
+## Development
 
 1. Implemented the Golden Section Search algorithm in Python
 2. Created functions to estimate the order of convergence using epsilon and successive-difference methods
