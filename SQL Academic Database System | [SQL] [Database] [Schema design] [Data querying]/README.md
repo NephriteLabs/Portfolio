@@ -20,7 +20,7 @@ The dataset consists of several interconnected tables, including Students, Cours
 - Foreign and primary key relationships
 - Data querying
 
-## Development:
+## Development
 The development process involved:
 
 1. Designing the database schema
