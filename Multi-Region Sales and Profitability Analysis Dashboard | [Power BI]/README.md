@@ -2,7 +2,7 @@
 
 This project aimed to leverage Power BI to perform in-depth analysis of sales and profitability across various regions and product categories. The objective was to provide insights by visualising sales trends over fiscal years 2018 to 2020.
 
-The Project Included
+### The project included:
 
 A detailed analysis of sales performance by country and product category.
 
