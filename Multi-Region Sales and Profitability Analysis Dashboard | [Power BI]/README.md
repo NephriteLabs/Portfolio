@@ -23,20 +23,20 @@ The dataset contained sales and profit margin data for FY2018, FY2019, and FY202
 
 ## Development
 
-The project development began with data import and modeling in Power BI. The data was cleaned, categorised, and organised to enable easy analysis. Interactive visualisations such as bar charts, line graphs, and pie charts were used to represent sales, profit margins, and sales target comparisons. Quarterly and yearly performance by region and product category was analysed, identifying trends and key insights from data. Below are several key charts and graphs from the report: 
+### The project development began with data import and modeling in Power BI. The data was cleaned, categorised, and organised to enable easy analysis. Interactive visualisations such as bar charts, line graphs, and pie charts were used to represent sales, profit margins, and sales target comparisons. Quarterly and yearly performance by region and product category was analysed, identifying trends and key insights from data. Below are several key charts and graphs from the report: 
 
-- Sales and Profit Margin by Month: A line graph depicting monthly sales versus profit margins for FY2019 and FY2020. This chart highlights sales trends and how profit margins fluctuated month over month.
+Sales and Profit Margin by Month: A line graph depicting monthly sales versus profit margins for FY2019 and FY2020. This chart highlights sales trends and how profit margins fluctuated month over month.
 
 <img width="1139" height="358" alt="dash1" src="https://github.com/user-attachments/assets/89eb3f76-c8c0-4453-bd93-61f2bb5722d4" />
 
-- Sales by Country and Category: A bar chart breaking down sales performance by country (USA, Canada, France, etc.) and by product category (Accessories, Bikes, Clothing, Components). This shows regional and product-specific insights.
+Sales by Country and Category: A bar chart breaking down sales performance by country (USA, Canada, France, etc.) and by product category (Accessories, Bikes, Clothing, Components). This shows regional and product-specific insights.
 
 <img width="466" height="421" alt="dash2" src="https://github.com/user-attachments/assets/6a5a6542-8eaa-4778-a69e-b91d09d8caed" />
 
-- Quantity of Goods by Category: A visual representation of the quantity of goods sold, with categories such as Clothing, Bikes, Components, and Accessories, highlighting the most popular product lines.
+Quantity of Goods by Category: A visual representation of the quantity of goods sold, with categories such as Clothing, Bikes, Components, and Accessories, highlighting the most popular product lines.
 
 <img width="680" height="422" alt="dash3" src="https://github.com/user-attachments/assets/d38f9c31-c229-4d9a-aac1-c7a8e81d0eef" />
 
-- Sales vs. Target by Month: Comparison of actual sales to the set targets for each month, illustrating variances and areas where sales fell short or exceeded expectations.
+Sales vs. Target by Month: Comparison of actual sales to the set targets for each month, illustrating variances and areas where sales fell short or exceeded expectations.
 
 <img width="1153" height="764" alt="dash4" src="https://github.com/user-attachments/assets/48880c3f-cca6-4924-b8c9-2095c54211a6" />
