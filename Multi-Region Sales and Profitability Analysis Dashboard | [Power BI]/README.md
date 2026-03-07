@@ -23,7 +23,7 @@ The dataset contained sales and profit margin data for FY2018, FY2019, and FY202
 
 ## Development
 
-### The project development began with data import and modeling in Power BI. The data was cleaned, categorised, and organised to enable easy analysis. Interactive visualisations such as bar charts, line graphs, and pie charts were used to represent sales, profit margins, and sales target comparisons. Quarterly and yearly performance by region and product category was analysed, identifying trends and key insights from data. Below are several key charts and graphs from the report: 
+The project development began with data import and modeling in Power BI. The data was cleaned, categorised, and organised to enable easy analysis. Interactive visualisations such as bar charts, line graphs, and pie charts were used to represent sales, profit margins, and sales target comparisons. Quarterly and yearly performance by region and product category was analysed, identifying trends and key insights from data. Below are several key charts and graphs from the report: 
 
 Sales and Profit Margin by Month: A line graph depicting monthly sales versus profit margins for FY2019 and FY2020. This chart highlights sales trends and how profit margins fluctuated month over month.
 
