@@ -3,11 +3,11 @@
 This project aimed to leverage Power BI to perform in-depth analysis of sales and profitability across various regions and product categories. The objective was to provide insights by visualising sales trends over fiscal years 2018 to 2020.
 
 ### The project included:
-- A detailed analysis of sales performance by country and product category.
-- Comparison of actual sales vs. sales targets over a three-year period.
-- Profit margin analysis and cost breakdown by region, highlighting performance variations.
-- Quarterly performance evaluations across different regions and product categories.
-- Creation of interactive Power BI dashboards with charts and graphs to visualize key metrics.
+- A detailed analysis of sales performance by country and product category
+- Comparison of actual sales vs. sales targets over a three-year period
+- Profit margin analysis and cost breakdown by region, highlighting performance variations
+- Quarterly performance evaluations across different regions and product categories
+- Creation of interactive Power BI dashboards with charts and graphs to visualise key metrics
 
 ## Dataset
 
