@@ -16,16 +16,12 @@ The dataset contained sales and profit margin data for FY2018, FY2019, and FY202
 <img width="831" height="486" alt="dataset" src="https://github.com/user-attachments/assets/6b806383-1c9c-482c-8129-ddcaec3267cf" />
 
 ## Skills and Technologies
+- Power BI: Used to design and develop the dashboard, perform data modeling, and create visualisations
+- Data analysis: Interpreted raw sales and financial data to uncover trends and patterns
+- Data visualisation: Generated dynamic reports and charts for clear insights into sales, profits, and targets
+- Problem-solving: Identified underperforming areas, sales trends, and made actionable recommendations
 
-Power BI: Used to design and develop interactive dashboards, perform data modeling, and create visualizations.
-
-Data analysis: Interpreted raw sales and financial data to uncover trends and patterns.
-
-Data visualization: Generated dynamic reports and charts for clear insights into sales, profits, and targets.
-
-Problem-solving: Identified underperforming areas, sales trends, and made actionable recommendations.
-
-Development
+## Development
 
 The project development began with data import and modeling in Power BI. The data was cleaned, categorized, and organized to enable easy analysis. Interactive visualizations such as bar charts, line graphs, and pie charts were used to represent sales, profit margins, and sales target comparisons. Quarterly and yearly performance by region and product category was analyzed, identifying key trends and actionable insights to improve future sales strategies.
 
