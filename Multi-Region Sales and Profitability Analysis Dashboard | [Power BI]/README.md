@@ -1,4 +1,4 @@
-Concept
+## Concept
 
 This project aimed to leverage Power BI to perform in-depth analysis of sales and profitability across various regions and product categories. By visualizing sales trends over fiscal years 2018 to 2020, the objective was to provide insights that could guide business strategies, optimize sales forecasting, and enhance profit margins.
 
