@@ -12,6 +12,7 @@ This project aimed to leverage Power BI to perform in-depth analysis of sales an
 ## Dataset
 
 The dataset contained sales and profit margin data for FY2018, FY2019, and FY2020, together with comparison of sales targets vs. actual sales, and variance margin for each fiscal year. It also included cost analysis for regions including Australia, Canada, Germany, France, the UK, and the US, as well as a breakdown of product categories.
+
 <img width="831" height="486" alt="dataset" src="https://github.com/user-attachments/assets/6b806383-1c9c-482c-8129-ddcaec3267cf" />
 
 ## Skills and Technologies
